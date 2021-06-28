@@ -1,2 +1,2 @@
-# TevoX-contract
+# TevoX-contract Binance Chain
 tevox token
